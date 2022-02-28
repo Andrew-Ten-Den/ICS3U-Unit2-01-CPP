@@ -14,8 +14,8 @@ int main() {
     std::cout << "If a circle has a radius of: " << std::endl;
     std::cout << "5 mm" << std::endl;
     std::cout << std::endl;
-    std::cout << "The Area is " << (M_PI * pow(5, 2)) << "mm²." << std::endl;
-    std::cout << "The Perimeter is " << (5 * M_PI * 2) << "mm." << std::endl;
+    std::cout << "The Area is " << (M_PI * pow(5, 2)) << " mm²." << std::endl;
+    std::cout << "The Perimeter is " << (5 * M_PI * 2) << " mm." << std::endl;
     std::cout << std::endl;
     std::cout << "Problem Solved" << std::endl;
 }
